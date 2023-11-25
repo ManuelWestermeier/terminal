@@ -1,0 +1,23 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+input {
+    padding: 50px 5px;
+    margin: 5px;
+    border: none;
+    outline: none;
+    margin: 0 10%;
+    width: 80%;
+}
+
+.cmd {
+    margin: 10%;
+}
